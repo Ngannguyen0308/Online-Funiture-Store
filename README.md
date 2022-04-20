@@ -1,5 +1,5 @@
 # Online Store: Abulous Furniture
-An Ecommerce Website by Team A
+An E-commerce Website by Team A, made with HTML, CSS and JavaScript.
 
 ## Features
  - [X] Home
