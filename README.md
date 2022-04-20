@@ -1,5 +1,5 @@
-# Online-Funiture-Store
-## The Ecommerce Website
+# Online Store: Abulous Furniture
+An Ecommerce Website by Team A
 
 ## Features
  - [X] Home
@@ -8,6 +8,6 @@
  - [X] Contact
 
 ## Members
- - ## Pham Thi Mai Vy
- - ## Nguyen Thi Ngoc Ngan
- - ## Nguyen Linh Nhi
+ - Pham Thi Mai Vy
+ - Nguyen Thi Ngoc Ngan
+ - Nguyen Linh Nhi
