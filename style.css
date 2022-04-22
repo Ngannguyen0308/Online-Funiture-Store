@@ -156,10 +156,10 @@ section {
 
     header .navbar{
         position: fixed;
-        top:6.2rem; right:-120%;
+        top: 8rem; right:-120%;
         height:100%;
         width:100%;
-        border-top: .2rem solid rgba(0,0,0,.3);
+        border-top: 1rem solid rgba(0,0,0,.3);
     }
 
     header .navbar ul{
@@ -167,7 +167,7 @@ section {
         width:100%;
         flex-flow: column;
         background:#fff;
-        padding-bottom: 15rem;
+        padding-bottom: 3rem;
     }
 
     header .navbar ul li a{
