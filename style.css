@@ -32,10 +32,10 @@ header{
     width:100%;
 }
 
-.heading{
-    font-size: 6rem;
+header .heading{
+    font-size: 5rem;
     color:#666;
-    padding:1rem;
+    padding: 1rem;
     text-align: center;
 }
 
@@ -67,9 +67,9 @@ header #menu{
     color: #666;
 }
 
-section{
-    padding:0 7%;
-    padding-top: 12rem;
+section {
+    padding: 0 7%;
+    padding-top: 20rem;
 }
 
 .home{
@@ -126,7 +126,15 @@ section{
 @media (max-width:768px){
 
     html{
-        font-size: 50%;
+        font-size: 55%;
+    }
+
+    .home .homecontent{
+        text-align: center;
+    }
+
+    .home .homecontent h1{
+        font-size: 4rem;
     }
 }
 
@@ -154,6 +162,14 @@ section{
         border-top: .2rem solid rgba(0,0,0,.3);
     }
 
+    header .navbar ul{
+        height:100%;
+        width:100%;
+        flex-flow: column;
+        background:#fff;
+        padding-bottom: 15rem;
+    }
+
     header .navbar ul li a{
         font-size: 4rem;
         color:#333;
@@ -170,5 +186,9 @@ section{
 
     header .navbar.nav-toggle{
         right:0;
+    }
+
+    section{
+        padding-top: 10rem;
     }
 }
