@@ -239,7 +239,7 @@ section {
 
 .plan{
     min-height: 100vh;
-    background:rgb(195, 194, 194);
+    background:url(img/home-bg.jpg)
 }
 
 .plan .box-container{
