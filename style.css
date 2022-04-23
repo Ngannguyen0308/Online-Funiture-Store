@@ -191,6 +191,23 @@ section {
     section{
         padding-top: 10rem;
     }
+    
+    .footer .box-container .box:last-child{
+        text-align: center;
+    }
+
+    .footer .box-container .box:last-child p{
+        font-size: 1.7rem;
+    }    
+
+    .footer .box-container .box:last-child form{
+        flex-flow: column;
+    }
+
+    .footer .box-container .box:last-child form .btn{
+        margin-top: 1rem;
+        width: 100%;
+    }
 }
 
 .about{
