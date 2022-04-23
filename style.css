@@ -223,6 +223,8 @@ section {
     width:30rem;
     text-align: center;
     box-shadow: 0 0 .3rem rgba(0,0,0,.3);
+    height: 20rem;
+    width: 30rem;
 }
 
 .service .box-container .box i{
