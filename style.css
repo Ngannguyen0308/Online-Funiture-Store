@@ -82,6 +82,8 @@ section {
     background-position: center;
     background-attachment: fixed;
     flex-wrap: wrap;
+    padding-top: 14rem;
+    padding-bottom: 4rem;
 }
 
 .home .image{
@@ -166,7 +168,7 @@ section {
     align-items: center;
     justify-content: space-around;
     flex-wrap: wrap;
-    padding-bottom: 0rem;
+    padding-bottom: 0;
 }
 
 .about .image{
